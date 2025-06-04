@@ -25,5 +25,5 @@ def draw_chessboard(solution):
     ax.set_aspect('equal')
     plt.title("8-Queens Solution")
     plt.tight_layout()
-    plt.savefig("solution.png")  # Save image
+    plt.savefig("./Results/solution.png")  # Save image
     plt.show()
