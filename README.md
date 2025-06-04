@@ -53,7 +53,7 @@ Technologies used:
 ### ✅ Sample Final Solution
 
 🟦 Solution (queens):  
-`[4, 6, 1, 5, 2, 0, 3, 7]`
+`[7, 5, 3, 1, 6, 8, 2, 4]`
 
 📸 Chessboard Visualization:
 
