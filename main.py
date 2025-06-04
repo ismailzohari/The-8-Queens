@@ -1,4 +1,5 @@
 from genetic import Genetic8Queens
+from visualize import draw_chessboard
 
 POPULATION_SIZE = 100
 GENERATIONS = 1000
@@ -29,3 +30,4 @@ if __name__ == "__main__":
         population = new_population
     else:
         print("❌ No solution found.")
+draw_chessboard(solution)
